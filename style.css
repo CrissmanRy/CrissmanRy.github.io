@@ -2,7 +2,7 @@ body{
   font: 15px/1.5 Arial, Helvetica,sans-serif;
   padding:0;
   margin:0;
-  background-color:#f2dac9;
+  background-color:#ffbcbc;
 }
 
 .container{
@@ -18,7 +18,7 @@ ul{
 
 .button_1{
   height:38px;
-  background:#ee0606;
+  background:#5eb2c1;
   border:0;
   padding-left: 20px;
   padding-right:20px;
@@ -27,7 +27,7 @@ ul{
 
 .dark{
   padding:15px;
-  background:#35424a;
+  background:#5a4c96;
   color:#ffffff;
   margin-top:10px;
   margin-bottom:10px;
@@ -35,7 +35,7 @@ ul{
 
 /* Header */
 header{
-  background:#35424a;
+  background:#775c77;
   color:#ffffff;
   padding-top:30px;
   min-height:70px;
@@ -69,12 +69,12 @@ header nav{
 }
 
 header .highlight, header .current a{
-  color:#e8491d;
+  color:#76c7e2;
   font-weight:bold;
 }
 
 header a:hover{
-  color:#cccccc;
+  color:#2274e8;
   font-weight:bold;
 }
 
